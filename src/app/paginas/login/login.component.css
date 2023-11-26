@@ -1,0 +1,6 @@
+.contenedor {
+    
+    display: grid;
+    place-items: center; /* Centra horizontal y verticalmente */
+    
+}
